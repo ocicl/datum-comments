@@ -1,0 +1,10 @@
+* datum-comments
+
+datum #;(comments) for common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tgbugs/datum-comments.git   |
+| commit  | ccb09f5  |
+| systems | datum-comments |
+|---------+-------------------------------------------|
+
